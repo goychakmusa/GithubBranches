@@ -16,6 +16,9 @@ public class MyClass {
     //Version 4
     public String str6 = "This is one more String";
 
+    // Techpro Branch, some changes
+    public String str7 = "Here are some changes";
+
 
 
 
